@@ -109,11 +109,9 @@ isStandardized?rethink-and-refine:proceeding
 	<证明写出来的产品在ui上的提升：代码简图，UI简图>
 	2.2 Scrutinize the differences
 	<列一个表 说明写出来的程序和原型设计的区别>
-	<
-	1.improvement
+	<1.improvement
 	2.time constraints
-	3.technical difficulites
-	>
+	3.technical difficulites>
 3.evaluation
 	3.1 Evaluation techniques
 	<用到了那些评估方法->来源自ppt 比如heuristic evaluation, cognitive walkthrough, questionnaire, etc>
