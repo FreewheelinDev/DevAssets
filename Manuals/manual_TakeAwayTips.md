@@ -116,7 +116,7 @@ isStandardized?rethink-and-refine:proceeding
 	>
 3.evaluation
 	3.1 Evaluation techniques
-	<用到了那些评估方法->来源自ppt 比如heuristic evaluation, cognitive 			    walkthrough, questionnaire, etc>
+	<用到了那些评估方法->来源自ppt 比如heuristic evaluation, cognitive walkthrough, questionnaire, etc>
 	3.2 Justifications on evaluation techniques
 	<使用这个评估方法的原因>
 	3.3 Outcomes of the evaluation
