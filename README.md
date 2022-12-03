@@ -7,6 +7,6 @@ The copyright always belongs to Freewheelin'.
 
 Sharing is forbidden.
 
-Member: Lei Zhou, Pangyu Li, Xiangyu Shen, Yuheng Liu, Zihan Zhou
+Members: Lei Zhou, Pangyu Li, Xiangyu Shen, Yuheng Liu, Zihan Zhou
 '''
 ```
